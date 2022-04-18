@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Banorant's OneDrive",
+  title: "Banorant's Drive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Public',
@@ -49,13 +49,9 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
-    },
-    {
-      name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
-    },
+      name: 'Discord',
+      link: 'https://bit.ly/37UW1RZ',
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
